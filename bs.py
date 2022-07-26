@@ -1,5 +1,4 @@
-Bubble sort
-     
+
       
 a_list = [50, 4,7,16]
 
