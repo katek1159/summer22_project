@@ -1,5 +1,3 @@
-Линейный поиск
-
 a_list = [2,6,8,1,11]
 element = 6
 element_index=-1
